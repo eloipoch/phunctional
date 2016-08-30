@@ -1,6 +1,6 @@
 <?php
 
-namespace Akamon\Phunctional;
+namespace Lambdish\Phunctional;
 
 /**
  * Calls $fn with $args and returns its results.
