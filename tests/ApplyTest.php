@@ -1,9 +1,9 @@
 <?php
 
-namespace Akamon\Phunctional\Tests;
+namespace Lambdish\Phunctional\Tests;
 
 use PHPUnit_Framework_TestCase;
-use function Akamon\Phunctional\apply;
+use function Lambdish\Phunctional\apply;
 
 class ApplyTest extends PHPUnit_Framework_TestCase
 {
